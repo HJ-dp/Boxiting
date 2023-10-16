@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "이호진인데요",
+      "content":"ㅋㅋ"
+    },
+    {
+      "id": 2,
+      "title": "구본민입니다",
+      "content":"ㅋㅋ?"
+    },
+    {
+      "id": 3,
+      "title": "누구신가요",
+      "content":"에엥"
+    }
+  ],
+  "profile": {
+    "name": "hj"
+  }
+}
